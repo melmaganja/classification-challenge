@@ -1,1 +1,2 @@
 # classification-challenge
+In this challenge I demonstrated my understanding of testing supervised learning models. In this challenge, I used Logistical Regression and Random Forest to fit the provided data. After both data was trained and tested the accuracy of each model was assessed. It was found that Random Forest Models overfit data, however they are more accurate. This was a fun exercise to start to explore machine learning and the various types of classification models. 
